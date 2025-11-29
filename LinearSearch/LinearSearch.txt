@@ -1,0 +1,16 @@
+1.Find Num in an array
+2.Find Number in an given array range
+3.Search element in 2D arrays
+4.Find min or max number in an given array
+5.Find min or max number in an given 2d array
+6.Even/Odd no of Digits in given array
+7.Max Wealth
+
+
+time amplexcity 
+
+min O(1) =Constent .Best scenaario is fist element is the expected number
+Max )(n)= That is length of an arry and iteratee all elements and not found the required element.
+
+
+Time complexity means time grwoes as input grows.

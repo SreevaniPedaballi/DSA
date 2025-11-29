@@ -1,0 +1,12 @@
+# Ignore Windows system files
+AppData/
+Thumbs.db
+*.log
+
+# Ignore build artifacts and caches
+*.class
+*.jar
+*.zip
+*.tar.gz
+target/
+out/

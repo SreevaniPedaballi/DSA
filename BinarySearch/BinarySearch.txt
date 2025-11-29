@@ -1,0 +1,29 @@
+1.BinarySearch
+2.OrderAgnostic BinarySearch
+3.celling(smallest element >= target) eg: arr[10,12,15,17,18] target 14 then ans lies b/w [15,17,18 ] so the least element is 15 and that would   the answer
+4.flooring(greast element <= target) eg: arr[10,12,15,17,18] target 14 then ans lies b/w [10,12 ] so the greast element is 12 and that would   the answer
+5.smallest
+6.firstandlastindex of given element in array
+7.infinite array
+8.peak element in mountain array
+9.find target element in mountain array(eg asc peak desc)
+10.find target element in rotated arrayment (eg: asc desc(peak,next elemeent) asc)
+11.How many rotations in an rotated array
+12.find target elemeent in Duplicated  rotated array 
+Time complexity
+-----------------------------
+Min O(1)= middle element
+Max O(Logn)= No of comparisions
+----------------------------
+BinarySearch always deal with ssorted arrays
+1.Find middle element
+2.compare target with middle
+3. middle==target
+4.target>middle
+5target<middle
+
+
+-----------------------------
+Current array size=end_index -start_index+1
+
+middle element=start_index+(end_index-start_index)//2
